@@ -1,0 +1,42 @@
+section {
+   display: inline-block;
+}
+article {
+    display: inline-block;
+}
+.Header1 {
+    background-color:rgb(111, 205, 246);
+    width: 505px;
+    text-align: center;
+    border: solid black thin ;
+}
+.Header2 {
+    background-color:rgb(111, 205, 246);
+    width: 505px;
+    text-align: center;
+    border: solid black thin ;
+}
+.Group1 {
+    background-color:rgb(82, 200, 120);
+    width: 250px;
+    text-align: center;
+    border: solid black thin ;
+}
+.Group2 {
+    background-color:rgb(110, 103, 172);
+    width: 250px;
+    text-align: center;
+    border: solid black thin ;
+}
+.Group3 {
+    background-color:rgb(211, 103, 103);
+    width: 250px;
+    text-align: center;
+    border: solid black thin ;
+}
+.Group4 {
+    background-color:rgb(232, 235, 105);
+    width: 250px;
+    text-align: center;
+    border: solid black thin ;
+}
